@@ -1,6 +1,6 @@
 # Überblick Gelerntes 
 
-Hier findet ihr eine mehr oder weniger vollständige Übersicht über den bislang gelernten Stoff. Stand 22.2.2022
+Hier findet ihr eine mehr oder weniger vollständige Übersicht über den bislang gelernten Stoff. Ihr könnt das gerne ergänzen. Stand 22.2.2022
 
 ### html basics
 
@@ -28,3 +28,12 @@ Hier findet ihr eine mehr oder weniger vollständige Übersicht über den bislan
      - Kombinatoren ( +, >, ~)
      - Pseudoelemente (Bsp.: ::after, ::before, ::first-letter)
      - Pseudoklassen (Bsp.: :hover, :active, :visited, :first-child, first-of-type, :nth-of-type) [hier nochmal eine Erklärung](https://h5c3.de/inhalte/alle-css3-selektoren-im-detail-strukturpseudoklassen/))
+- die unterschiedliche Spezifität der Selektoren ([Erklärung](https://kulturbanause.de/blog/css-spezifitat/))
+- units - Einheiten --> px + %, em + rem, vh +vw
+- Höhe und Breite (width, height)
+- Farben verändern (color, background-color)
+- Farbräume (rgb, hex, rgba, hsl)
+- Textformatierung
+- Rahmen (border, border-radius)
+- Bilder (object-fit, filter)
+    
