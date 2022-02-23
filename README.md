@@ -1,5 +1,7 @@
 # Überblick Gelerntes 
 
+Hier findet ihr eine mehr oder weniger Überischt über den bislang gelernten Stoff. Stand 22.2.2022
+
 ### html basics
 
 - html Boilerplate ([Boilerplate?](https://kulturbanause.de/faq/boilerplate/)) --> [Beispiel]()
