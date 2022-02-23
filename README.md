@@ -1,6 +1,6 @@
 # Überblick Gelerntes 
 
-Hier findet ihr eine mehr oder weniger Überischt über den bislang gelernten Stoff. Stand 22.2.2022
+Hier findet ihr eine mehr oder weniger vollständige Übersicht über den bislang gelernten Stoff. Stand 22.2.2022
 
 ### html basics
 
