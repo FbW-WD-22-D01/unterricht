@@ -4,7 +4,7 @@ Hier findet ihr eine mehr oder weniger Überischt über den bislang gelernten St
 
 ### html basics
 
-- html Boilerplate ([Boilerplate?](https://kulturbanause.de/faq/boilerplate/)) --> [Beispiel]()
+- html Boilerplate ([Boilerplate?](https://kulturbanause.de/faq/boilerplate/)) --> [Beispiel](boilerplate.html)
 - `head` --> --> [nachlesen](https://developer.mozilla.org/de/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
     - meta tags
     - title
