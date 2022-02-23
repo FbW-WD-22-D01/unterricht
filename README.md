@@ -27,4 +27,4 @@ Hier findet ihr eine mehr oder weniger Überischt über den bislang gelernten St
      - einfache Selektoren Universal (*), Typ( z.B. img), Klasse(.) oder ID(#)
      - Kombinatoren ( +, >, ~)
      - Pseudoelemente (Bsp.: ::after, ::before, ::first-letter)
-     - Pseudoklassen (Bsp.: :hover, :active, :visited, :first-child, first-of-type, :nth-of-type - [dazu nochmal Erklärung](https://developer.mozilla.org/de/docs/Web/CSS/:nth-child))
+     - Pseudoklassen (Bsp.: :hover, :active, :visited, :first-child, first-of-type, :nth-of-type) [hier nochmal eine Erklärung](https://h5c3.de/inhalte/alle-css3-selektoren-im-detail-strukturpseudoklassen/))
